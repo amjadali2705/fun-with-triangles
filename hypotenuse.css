@@ -1,0 +1,38 @@
+body {
+    background-color: #1f2937;
+    color: rgb(9, 201, 9);
+    text-align: center;
+}
+
+.link-style {
+    border: solid black;
+    background-color: rgb(193, 240, 140);
+    text-decoration: none;
+    padding: 0.2rem;
+    margin: 1rem;
+    color: rgb(12, 5, 12);
+}
+
+#header-style {
+    background-color: rgb(61, 61, 61);
+    padding: 1rem;
+    display: block;
+    width: auto;
+}
+
+.side-input {
+    width: 20%;
+    padding: 0.5rem;
+    margin: auto;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+#hypotenuse-btn {
+    margin: auto;
+    padding: 0.5rem;
+}
+
+#output {
+    margin: 1rem;
+}
